@@ -1,0 +1,114 @@
+[
+ {
+  "Sno": 2,
+  "StationTitle": "Vedam - Sri Sathya Sai",
+  "Description": "Continuous Vedic Chants offered by Sri Sathya Sai Central Trust, Prasanthi Nilayam, India",
+  "ImageLink": "https:\/\/www.sssmediacentre.org\/assets\/images\/radiostations\/vedam.jpg",
+  "RadioLink": "https:\/\/stream.sssmediacentre.org:8443\/vedam",
+  "Organisation": "https:\/\/www.sssmediacentre.org\/"
+ },
+ {
+  "Sno": 3,
+  "StationTitle": "Sai Gayathri - Sri Sathya Sai",
+  "Description": "Countinuous Sai Gayathri Mantra chanting offered by Sri Sathya Sai Central Trust, Prasanthi Nilayam, India",
+  "ImageLink": "https:\/\/www.sssmediacentre.org\/assets\/images\/radiostations\/sai_gayatri.jpg",
+  "RadioLink": "https:\/\/stream.sssmediacentre.org:8443\/saigayathri",
+  "Organisation": "https:\/\/www.sssmediacentre.org\/"
+ },
+ {
+  "Sno": 4,
+  "StationTitle": "Gayathri Mantra- Sri Sathya Sai",
+  "Description": "Countinuous Gayathri Mantra by Bhagawan Sri Sathya Sai Baba offered by Sri Sathya Sai Central Trust, Prasanthi Nilayam, India",
+  "ImageLink": "https:\/\/www.sssmediacentre.org\/assets\/images\/radiostations\/gayatri_mantra.jpg",
+  "RadioLink": "https:\/\/stream.sssmediacentre.org:8443\/gayathri",
+  "Organisation": "https:\/\/www.sssmediacentre.org\/"
+ },
+ {
+  "Sno": 5,
+  "StationTitle": "Shiva Panchakshari - Sri Sathya Sai",
+  "Description": "Countinuous Shiva Panchakshari Mantra by Bhagawan Sri Sathya Sai Baba offered by Sri Sathya Sai Central Trust, Prasanthi Nilayam, India",
+  "ImageLink": "https:\/\/www.sssmediacentre.org\/assets\/images\/radiostations\/shiv_panchakshari.jpg",
+  "RadioLink": "https:\/\/stream.sssmediacentre.org:8443\/shivapanchakshari",
+  "Organisation": "https:\/\/www.sssmediacentre.org\/"
+ },
+ {
+  "Sno": 6,
+  "StationTitle": "Prasanthi Nilayam - Sri Sathya Sai",
+  "Description": "Prasanthi Nilayam Radio offered by Sri Sathya Sai Central Trust, Prasanthi Nilayam, India",
+  "ImageLink": "https:\/\/www.sssmediacentre.org\/assets\/images\/radiostations\/prasanthi.jpg",
+  "RadioLink": "https:\/\/stream.sssmediacentre.org:8443\/asia",
+  "Organisation": "https:\/\/www.sssmediacentre.org\/"
+ },
+ {
+  "Sno": 7,
+  "StationTitle": "Bhajan - Sri Sathya Sai",
+  "Description": "Uninterrupted Bhajans Radio  offered by Sri Sathya Sai Central Trust, Prasanthi Nilayam, India",
+  "ImageLink": "https:\/\/www.sssmediacentre.org\/assets\/images\/radiostations\/bhajan.jpg",
+  "RadioLink": "https:\/\/stream.sssmediacentre.org:8443\/bhajan",
+  "Organisation": "https:\/\/www.sssmediacentre.org\/"
+ },
+ {
+  "Sno": 8,
+  "StationTitle": "Discourse - Sri Sathya Sai",
+  "Description": "Uninterrupted Divine Discourses of Bhagawan Sri Sathya Sai Baba  offered by Sri Sathya Sai Central Trust, Prasanthi Nilayam, India",
+  "ImageLink": "https:\/\/www.sssmediacentre.org\/assets\/images\/radiostations\/discourse.jpg",
+  "RadioLink": "https:\/\/stream.sssmediacentre.org:8443\/discourse",
+  "Organisation": "https:\/\/www.sssmediacentre.org\/"
+ },
+ {
+  "Sno": 9,
+  "StationTitle": "Telugu - Sri Sathya Sai",
+  "Description": "Telugu Radio offered by Sri Sathya Sai Central Trust, Prasanthi Nilayam, India",
+  "ImageLink": "https:\/\/www.sssmediacentre.org\/assets\/images\/radiostations\/telugu.jpg",
+  "RadioLink": "https:\/\/stream.sssmediacentre.org:8443\/telugu",
+  "Organisation": "https:\/\/www.sssmediacentre.org\/"
+ },
+ {
+  "Sno": 10,
+  "StationTitle": "Veda Vani - Sai Prakashana",
+  "Description": "Radio Station to tune into Sacred Vedic Chants offered by Sai Prakashana",
+  "ImageLink": "https:\/\/www.saiprakashana.org\/wp-content\/plugins\/mp3-jplayer\/css\/images\/pulse.gif",
+  "RadioLink": "https:\/\/eu4.fastcast4u.com\/proxy\/vedam?mp=\/stream",
+  "Organisation": "https:\/\/www.saiprakashana.org\/sanathana-vani\/"
+ },
+ {
+  "Sno": 11,
+  "StationTitle": "Bhajana Vani - Sai Prakashana",
+  "Description": "Radio Station to tune into melodious Bhajans offered by Sai Prakashana",
+  "ImageLink": "https:\/\/www.saiprakashana.org\/wp-content\/plugins\/mp3-jplayer\/css\/images\/pulse.gif",
+  "RadioLink": "https:\/\/eu4.fastcast4u.com\/proxy\/bhajan?mp=\/stream\n",
+  "Organisation": "https:\/\/www.saiprakashana.org\/sanathana-vani\/"
+ },
+ {
+  "Sno": 12,
+  "StationTitle": "Bhakti Sangeet",
+  "Description": "Devotional Music from Bhakti Sangeet Mumbai India",
+  "RadioLink": "https:\/\/stream.zeno.fm\/r51n9k1vsa0uv"
+ },
+ {
+  "Sno": 13,
+  "StationTitle": "Sadhguru Radio",
+  "Description": "Sadhguru Radio from Isha Foundation",
+  "ImageLink": "https:\/\/static.sadhguru.org\/d\/46272\/1655536192-header-sadhguru-radio-logo.png",
+  "RadioLink": "https:\/\/streaming.radio.co\/s445d7b4c0\/listen",
+  "Organisation": "https:\/\/isha.sadhguru.org\/in\/en\/sadhguru-radio"
+ },
+ {
+  "Sno": 14,
+  "StationTitle": "Om Namasivaya Radio ",
+  "Description": "Om Namasivaya Radio is a 24x7 Internet spiritual radio station dedicated to sing the glory of Lord shiva. Present by Om Namasivaya Charitable Trust, Tamil Nadu",
+  "RadioLink": "https:\/\/stream-161.zeno.fm\/whqnz2veyy8uv"
+ },
+ {
+  "Sno": 15,
+  "StationTitle": "Mahakal 24x7",
+  "Description": "Mahakal 24x7 Radio station plays Song playlists dedicated To The Creator Of The World \"Lord Shiva\" .The Mahakal .\n",
+  "RadioLink": "https:\/\/stream-159.zeno.fm\/xvrm5ezyurhvv"
+ },
+ {
+  "Sno": 16,
+  "StationTitle": "Jap Radio (ਜਪੁ ਰੇਡੀਓ) 24 hrs",
+  "Description": "Broadcasting Gurbani Shabad Kirtan 24×7 Online ☬\nEmail : info@japradio.com\nPhone : +91 902 3333 024\nwww.japradio.com",
+  "RadioLink": "https:\/\/stream.zeno.fm\/kpg9shh0kxquv"
+ }
+]
